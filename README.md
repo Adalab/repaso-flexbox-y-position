@@ -5,7 +5,7 @@ Un pequeño repaso de uso de flexbox y position intentado distribuir tres elemen
 ![Ejemplo de ejercicios](assets/sample.png)
 
 ## Instrucciones
-1. Pedir acceso a repo y crear una rama donde ir resolviendo los ejercicios.  
+1. Crea una rama y donde revolver los ejercicios.  
 2. Resolver cada ejercicio en su propio html/css.
 
 Ya.
